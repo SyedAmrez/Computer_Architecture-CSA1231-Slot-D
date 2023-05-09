@@ -5,3 +5,6 @@ RRC
 RRC
 STA 2000
 HLT
+
+Output: 
+2000 - 64
