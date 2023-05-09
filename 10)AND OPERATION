@@ -3,3 +3,6 @@ MVI B,4
 ANA B
 STA 2100
 HLT
+
+Output:
+2100 - 04
