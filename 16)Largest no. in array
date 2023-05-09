@@ -13,3 +13,14 @@ JNZ LOOP1
 LXI H,3050
 MOV M,B
 HLT
+
+Input:
+2050 - 04 (Array size)
+  Elements
+2051 - 05
+2052 - 07
+2053 - 03
+2054 - 09
+
+Output:
+3050 - 09 (Largest Number in array)
