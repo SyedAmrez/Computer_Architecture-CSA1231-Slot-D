@@ -14,3 +14,8 @@ JNZ LOOP
 MOV A,E
 STA 2004
 HLT
+
+Input:
+2001 - 04
+Output:
+2004 - 24
