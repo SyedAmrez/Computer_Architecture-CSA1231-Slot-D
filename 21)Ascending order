@@ -19,3 +19,19 @@ MOV A,D
 RRC
 JC START
 HLT
+
+Input:
+8000H - 05 (Array size)
+  Elements
+8001H - 08
+8002H - 10
+8003H - 03
+8004H - 07
+8005H - 02
+
+Output:
+8001H - 02
+8002H - 03
+8003H - 07
+8004H - 08
+8005H - 10
