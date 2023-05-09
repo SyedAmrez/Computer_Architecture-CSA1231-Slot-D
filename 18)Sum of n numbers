@@ -14,3 +14,15 @@ MOV M,A
 INX H
 MOV M,E
 HLT
+
+Input:
+8000 - 04 (Array size)
+  Elements
+8010 - 05
+8011 - 07
+8012 - 03
+8013 - 09
+
+Output:
+9000 - 18
+By converting 18 Hexdecimal form to Decimal form it becomes 24. where 5+7+3+9=24.
