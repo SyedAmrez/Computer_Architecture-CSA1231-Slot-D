@@ -6,3 +6,6 @@ DCR C
 JNZ LOOP
 STA 2000
 HLT
+
+Output:
+2000 - 25
