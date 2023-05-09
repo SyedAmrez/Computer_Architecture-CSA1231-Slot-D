@@ -6,3 +6,8 @@ DCR B
 JNZ LOOP
 STA 8050
 HLT
+
+Input:
+8000 - 02
+Output:
+8050 - 04
