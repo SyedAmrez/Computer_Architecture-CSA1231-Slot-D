@@ -4,5 +4,5 @@ ANA B
 STA 2100
 HLT
 
-Output:
+Output :
 2100 - 04
