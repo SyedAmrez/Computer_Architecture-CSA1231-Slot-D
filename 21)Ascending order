@@ -22,7 +22,7 @@ HLT
 
 Input:
 8000H - 05 (Array size)
-  Elements
+Array Elements
 8001H - 08
 8002H - 10
 8003H - 03
