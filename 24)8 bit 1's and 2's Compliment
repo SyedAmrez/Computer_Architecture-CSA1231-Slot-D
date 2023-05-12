@@ -5,7 +5,7 @@ ADI 01H
 STA 2002
 HLT
 
-Input:
+Input :
 2000 - 04
 
 Output:
