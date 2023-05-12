@@ -10,7 +10,7 @@ INX H
 SHLD 3004
 HLT
 
-Input:
+Input :
 3000 - 00
 3001 - 04
 
