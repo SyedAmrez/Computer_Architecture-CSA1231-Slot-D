@@ -4,5 +4,5 @@ SUB B
 STA 2000
 HLT
 
-Output:
+Output :
 2000 - 05
